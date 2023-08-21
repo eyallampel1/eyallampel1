@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eyal Lampel</h1>
-
+<img src="https://github.com/eyallampel1/gitTryTry/blob/main/Banner.png" alt="Profile Banner" />
 <h2 align="left">🛠 About Me:</h2>
 <ul>
   <li><strong>🎓 Position:</strong> Senior Hardware Engineer with a decade of hands-on experience in designing and developing intricate hardware systems.</li>
